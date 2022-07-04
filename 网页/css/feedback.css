@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.title
+{
+	background-color: rgb(127, 255, 255);
+	text-align: left;
+	margin-left: 0px 5% 0px 5%;
+	font-size: 45px;
+	
+}
+.feedback_div
+{
+	height: 1000px;
+	background-image: url(../image/index/5.jpg);
+	background-repeat: no-repeat;
+	margin:0px 5% 0px 5%;
+	border: 0px;
+	padding: 0px;
+	font-size: 25px;
+}
+
