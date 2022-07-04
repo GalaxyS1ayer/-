@@ -1,0 +1,32 @@
+.header_font
+{
+	font-size: 50px;
+	font-family: 宋体;
+	text-align: center;
+}
+.normal_box
+{
+	margin-bottom: 20%;
+	min-width:100%;
+}
+.others_box
+{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	min-width:1360px;
+}
+.font
+{
+	font-size: 20px;
+	line-height: 45px;
+	margin-right: 200px;
+	text-indent:2cm;
+}
+.pic
+{
+	float: left;
+	width: 15%;
+	height:17%;
+	margin-left: 15%;
+	margin-right: 15%;
+}

@@ -1,0 +1,31 @@
+.box{
+	height: 250px;
+	width: 200px;
+	margin-left: 70px;
+	margin-top: 100px;
+	float: left;
+	font-size:20px;
+}
+.box1,.box2,.box3,.box4{
+	height: 50px;
+	width: 200px;
+	border-style: dashed;
+	border-width: 1px;
+	margin-left: 0px;
+    margin-top: 7px;
+    text-align: center;
+    line-height: 50px;
+}
+.youbox{
+	margin-top: 70px;
+	margin-left: 150px;
+	height: 400px;
+	float:left;
+	font-size: 20px;
+}
+.ziti1{
+	font-size: 40px;
+}
+.ziti2{
+	font-size:20px;
+}

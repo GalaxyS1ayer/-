@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:link 
+{
+    color: #B0B0B0;
+    text-decoration: none;
+}
+a:visited 
+{
+    color: #B0B0B0;
+    text-decoration: none;
+}
+a:hover 
+{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a:active 
+{
+    color: #B0B0B0;
+    text-decoration: none;
+}
+.top_bar
+{
+	position: relative;
+	z-index: 30;
+	height: 40px;
+	font-size: 12px;
+	color: #b0b0b0;
+	background: #333;
+}
+.top_bar_container
+{
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+}
+.top_bar_feedback
+{
+	float: right;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+}
+.sep
+{
+	margin: 0.5em;
+	color:#424242;
+}
+.side_header
+{
+	background-color: #1b6494;
+	position: relative;
+	z-index: 20;
+	height:110px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.side_header_logo
+{
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.side_header_container_ul
+{
+	position: relative;
+	float: left;
+	width: 820px;
+	margin: 0px;
+}
+.side_header_container_li
+{
+	color:#FFF;
+	float: left;
+	margin: 45px 20px;
+	font-size: 20px;
+	list-style-type: none;
+}
